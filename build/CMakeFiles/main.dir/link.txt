@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/sh.c.o CMakeFiles/main.dir/src/util.c.o CMakeFiles/main.dir/src/filesys.c.o CMakeFiles/main.dir/src/disk.c.o  -o ../src/main -rdynamic 
